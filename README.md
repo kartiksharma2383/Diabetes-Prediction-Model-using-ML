@@ -1,1 +1,1 @@
-# Diabetes-Prediction-Model-using-ML
+This project implements a Diabetes Prediction Model using Machine Learning. It leverages the Pima Indians Diabetes dataset and applies preprocessing with StandardScaler, followed by training with Logistic Regression. The workflow includes data loading, feature scaling, model training, and prediction. The trained model is also saved using joblib for future use. This project demonstrates practical ML implementation for healthcare prediction and serves as a foundation for building more advanced medical diagnostic systems.
